@@ -8,6 +8,11 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
+
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+gem 'jquery-rails'
   
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
